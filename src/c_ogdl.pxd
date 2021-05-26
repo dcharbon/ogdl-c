@@ -150,4 +150,3 @@ cdef extern from "ogdl.h":
     Graph          OgdlLog_get      (OgdlLog l, unsigned long offset)
     Graph          OgdlLog_next     (OgdlLog l)
     unsigned long  OgdlLog_position (OgdlLog l)
-
